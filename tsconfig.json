@@ -1,0 +1,11 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/types" },
+    { "path": "packages/crypto-protocol" },
+    { "path": "packages/client-core" },
+    { "path": "packages/ui" },
+    { "path": "apps/web" },
+    { "path": "backend/api" }
+  ]
+}
